@@ -11,3 +11,5 @@ currencies$ars$rate
 
 curren <- lapply(currencies[[]], as.data.frame(currencies[[]]))
 View(curren)
+
+currec <- as.data.frame(currencies$eur)
