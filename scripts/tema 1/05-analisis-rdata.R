@@ -21,3 +21,5 @@ orders <- readRDS("../data/tema 1/pedidos.rds")
 data(iris)
 
 data(cars)
+
+save.image(file = "../data/tema 1/allDAta.Rdata")
